@@ -1,0 +1,25 @@
+{
+  "name": "oprah",
+  "version": "1.0.0",
+  "description": "A package for when you miss Her...",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProsperousJoy/Oprah.js.git"
+  },
+  "keywords": [
+    "Celebrity",
+    "Oprah",
+    "Joke",
+    "Prank"
+  ],
+  "author": "ProsperousJoy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ProsperousJoy/Oprah.js/issues"
+  },
+  "homepage": "https://github.com/ProsperousJoy/Oprah.js#readme"
+}
